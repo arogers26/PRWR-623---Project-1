@@ -7,7 +7,8 @@ Students should already have a clear understanding of how to:
 * Search and identify grant opportunities
 * Locate RFPs on a foundation’s website
 * Login to grant portals
-> [!Note] Students should also have access to Google Sheets.
+> [!Note]
+> Students should also have access to Google Sheets.
 
 # Step-by-Step Process
 
