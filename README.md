@@ -14,7 +14,7 @@ Through these instructions students will learn how to:
 - Manage and update the status of their grant proposal 
 
 ## Available Content
-*  [Overview of the process](docs/1_overview.md)
-*  [Step-by-step procedure of how to format a Google Sheet](docs/2_procedure.md)
-* [Troubleshooting with images](docs/3_troubleshooting.md)
-* [Sources](docs/4_sources.md)
+*  [Overview of the process](/1_overview.md)
+*  [Step-by-step procedure of how to format a Google Sheet](/2_procedure.md)
+* [Troubleshooting with images](/3_troubleshooting.md)
+* [Sources](/4_sources.md)
