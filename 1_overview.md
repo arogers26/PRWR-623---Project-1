@@ -9,8 +9,7 @@ Without proper documentation to store all grant details, students are more prone
 Through this documentation students will be creating a Google Sheet and experimenting with developing grant tracking documentation. They will learn how to incorporate links, embed their Google Doc. proposal(s), make drop-down menus, and include important data into their document.
 
 # Defining Terminology
-> [!Note]
-> These are some definitions to provide context for the document.
+These are some definitions to provide context for the document.
 * Organization Applicant: The person who is applying for a grant/funding on behalf of a nonprofit. 
 * Grantor: The individual who is in charge of funding opportunites and oversees all grant submissions.
 * RFPs (Request for Proposals): A funder's/foundation's request that asks nonprofits to apply for funding. 
