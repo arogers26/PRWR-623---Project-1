@@ -68,4 +68,4 @@ After completing all the listed steps above, you should have a grant tracking sp
 * Amount of money you were awarded
 * Grant priority (1-5)
 > [!Note]
-> Refer to "images" folder to see how your grant tracking documentation should look.
+> Reference "images" folder to verify your grant tracking documentation is formatted correctly.
