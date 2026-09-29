@@ -26,9 +26,9 @@ Students should already have a clear understanding of how to:
 8. A tab will appear that has two links. The top link will be selected and highlighted in blue. You will press “backspace” on your keyboard to delete the top link. Then enter the title of your nonprofit organization, Ex: “Neighborhood Companions, Inc. (NCI)” and select “Apply”. 
 9. To center the title, you will click the “Horizontal Align” option on the top menu that’s to the right of the “Merge Cell” toggle. Once you select it, click on the middle option to center your title.
 
-| After Step 1 | Image |
+| Step 1 | Image |
 | --- | --- |
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/69ecd981-5c48-48a3-b600-b9c008da1d5a" />
+After Completion | <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/69ecd981-5c48-48a3-b600-b9c008da1d5a" /> |
 
 
 ## Part 2: Categorizing Data
@@ -44,9 +44,9 @@ Students should already have a clear understanding of how to:
 10. In cell “2J” type the words “Amount Awarded”
 11. In cell “2K” type “Priority 1-5”
 
-| After Step 2 | Image |
+| Step 2 | Image |
 | --- | --- |
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" />
+After Completions | <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" /> |
 
 ## Part 3: Adding Key Information 
 1. In cell “3A” type the current semester and year you are writing your grant. (Ex: “fall 2026”)
