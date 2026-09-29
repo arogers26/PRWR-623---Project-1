@@ -2,36 +2,33 @@
 
 ## Prerequisites
 Students should already have a clear understanding of how to: 
-* Access and use OneDrive 
+* Open Google Sheets
+* Access and use OneDrive through personal g-mail account
 * Write a grant proposal draft in OneDrive
 * Search and identify grant opportunities
 * Locate RFPs on a foundation’s website
 * Login to grant portals
-> [!Note]
-> Students should also have access to Google Sheets.
 
 # Step-by-Step Process
 
 ## Part 1: Making the Title
->[!Note]
-> Open Google Sheets Document.
-
-1. Select row “1A” through “1K” by clicking on “1A” and dragging the cursor to “1K”.
-2. Merge cells “1A” through “1K” by clicking on the “Merge Cells” toggle above cell “1I” on the menus list. 
+1. Open Google Sheets Document.
+2. Select row “1A” through “1K” by clicking on “1A” and dragging the cursor to “1K”.
+3. Merge cells “1A” through “1K” by clicking on the “Merge Cells” toggle above cell “1I” on the menus list. 
 > [!Note] 
 > This feature looks like a box with an arrow on both the left and right side that points towards the center.
-3. After merging these cells, open a new tab on your computer browser and search for the website of your partnering nonprofit. 
-4. Once you click on the website, move your cursor to the link at the top of the screen that starts with “https://”. Click to the right of the link so that the link is highlighted in blue then copy it. 
+4. After merging these cells, open a new tab on your computer browser and search for the website of your partnering nonprofit. 
+5. Once you click on the website, move your cursor to the link at the top of the screen that starts with “https://”. Click to the right of the link so that the link is highlighted in blue then copy it. 
 > [!Note] 
 > Press keys “ctrl” and “C” on your keyboard to copy the link. 
-5. Switch back to your google sheet tab and double click in the merged cells “1A” through “1K” space and paste the link into the Google sheet. 
+6. Switch back to your google sheet tab and double click in the merged cells “1A” through “1K” space and paste the link into the Google sheet. 
 > [!Note] 
 > Press “ctrl” and “V” on your keyboard to paste link. 
-6. Select any cell outside of “1A” through “1K”. Your link will then turn blue. When your link turns blue, hover your cursor over the link until you see three toggles appear. 
+7. Select any cell outside of “1A” through “1K”. Your link will then turn blue. When your link turns blue, hover your cursor over the link until you see three toggles appear. 
 > [!Note] 
 > Click on the middle one that looks like a pencil and says, “Edit Link”.
-7. A tab will appear that has two links. The top link will be selected and highlighted in blue. You will press “backspace” on your keyboard to delete the top link. Then enter the title of your nonprofit organization, Ex: “Neighborhood Companions, Inc. (NCI)” and select “Apply”. 
-8. To center the title, you will click the “Horizontal Align” option on the top menu that’s to the right of the “Merge Cell” toggle. Once you select it, click on the middle option to center your title.  
+8. A tab will appear that has two links. The top link will be selected and highlighted in blue. You will press “backspace” on your keyboard to delete the top link. Then enter the title of your nonprofit organization, Ex: “Neighborhood Companions, Inc. (NCI)” and select “Apply”. 
+9. To center the title, you will click the “Horizontal Align” option on the top menu that’s to the right of the “Merge Cell” toggle. Once you select it, click on the middle option to center your title.  
 
 ## Part 2: Categorizing Data
 1. In cell “2A” type the words “Semester and year”
