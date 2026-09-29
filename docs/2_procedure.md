@@ -64,6 +64,7 @@ After Completion:
 Final Product:
 <img width="1286" height="896" alt="image" src="https://github.com/user-attachments/assets/65d18a30-8bea-42c4-8147-a6789fdb17fb" />
 
+<img width="1273" height="873" alt="image" src="https://github.com/user-attachments/assets/b26a8280-dedb-45a7-b67a-e67981b34df1" />
 
 ## Verifying Completion
 After completing all the listed steps above, you should have a grant tracking spreadsheet that includes all these components:
