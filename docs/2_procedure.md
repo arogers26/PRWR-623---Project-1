@@ -26,8 +26,8 @@ Students should already have a clear understanding of how to:
 8. A tab will appear that has two links. The top link will be selected and highlighted in blue. You will press “backspace” on your keyboard to delete the top link. Then enter the title of your nonprofit organization, Ex: “Neighborhood Companions, Inc. (NCI)” and select “Apply”. 
 9. To center the title, you will click the “Horizontal Align” option on the top menu that’s to the right of the “Merge Cell” toggle. Once you select it, click on the middle option to center your title.
 
-After Completion:
-<img width="1258" height="829" alt="image" src="https://github.com/user-attachments/assets/69ecd981-5c48-48a3-b600-b9c008da1d5a" />
+**After Completion:**
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/69ecd981-5c48-48a3-b600-b9c008da1d5a" />
 
 
 ## Part 2: Categorizing Data
@@ -43,8 +43,8 @@ After Completion:
 10. In cell “2J” type the words “Amount Awarded”
 11. In cell “2K” type “Priority 1-5”
 
-After Completion:
-<img width="1289" height="889" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" />
+**After Completion:**
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" />
 
 ## Part 3: Adding Key Information 
 1. In cell “3A” type the current semester and year you are writing your grant. (Ex: “fall 2026”)
@@ -61,7 +61,7 @@ After Completion:
 10. In cell "3J" type in the amount of money you have received from the funder. If request is still pending, leave this blank until further notified by funder.
 11. In cell “3K” type a number 1-5 to suggest the importance of the grant. Determine if it is the grant you will focus on first (“1”) or if you will prioritize other grants first (“5”).
 
-| After Completion | Images |
+**| After Completion | Images |**
 | --- | --- |
 Adding Proposal Draft |<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/65d18a30-8bea-42c4-8147-a6789fdb17fb" /> |
 Drop-Down Menu | <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b26a8280-dedb-45a7-b67a-e67981b34df1" /> |
