@@ -2,7 +2,7 @@
 
 ## Prerequisites
 Students should already have a clear understanding of how to: 
-* Open Google Sheets
+* Open a Google Sheets document
 * Access and use OneDrive through personal Gmail account
 * Write a grant proposal draft in OneDrive
 * Search and identify grant opportunities
