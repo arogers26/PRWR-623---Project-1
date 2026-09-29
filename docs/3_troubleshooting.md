@@ -7,4 +7,5 @@ When uploading your draft to your grant tracking documentation, ensure that you 
 * Put the most recent grants you are working on toward the top of the grant tracker
 * Place submitted proposals closer to the bottom of the tracker
 * Organize proposals by their due date (Ex: spring 2026 grants should be under fall 2026)
+
 Following this structure helps you stay on track and know when deadlines are approaching.
