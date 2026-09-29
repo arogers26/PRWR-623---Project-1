@@ -27,6 +27,7 @@ Students should already have a clear understanding of how to:
 9. To center the title, you will click the “Horizontal Align” option on the top menu that’s to the right of the “Merge Cell” toggle. Once you select it, click on the middle option to center your title.
 
 **After Completion:**
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/69ecd981-5c48-48a3-b600-b9c008da1d5a" />
 
 
@@ -44,6 +45,7 @@ Students should already have a clear understanding of how to:
 11. In cell “2K” type “Priority 1-5”
 
 **After Completion:**
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" />
 
 ## Part 3: Adding Key Information 
@@ -61,7 +63,7 @@ Students should already have a clear understanding of how to:
 10. In cell "3J" type in the amount of money you have received from the funder. If request is still pending, leave this blank until further notified by funder.
 11. In cell “3K” type a number 1-5 to suggest the importance of the grant. Determine if it is the grant you will focus on first (“1”) or if you will prioritize other grants first (“5”).
 
-**| After Completion | Images |**
+| After Completion | Images |
 | --- | --- |
 Adding Proposal Draft |<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/65d18a30-8bea-42c4-8147-a6789fdb17fb" /> |
 Drop-Down Menu | <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b26a8280-dedb-45a7-b67a-e67981b34df1" /> |
