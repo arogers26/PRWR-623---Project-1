@@ -24,7 +24,11 @@ Students should already have a clear understanding of how to:
 > [!Note] 
 > Click on the middle one that looks like a pencil and says, “Edit Link”.
 8. A tab will appear that has two links. The top link will be selected and highlighted in blue. You will press “backspace” on your keyboard to delete the top link. Then enter the title of your nonprofit organization, Ex: “Neighborhood Companions, Inc. (NCI)” and select “Apply”. 
-9. To center the title, you will click the “Horizontal Align” option on the top menu that’s to the right of the “Merge Cell” toggle. Once you select it, click on the middle option to center your title.  
+9. To center the title, you will click the “Horizontal Align” option on the top menu that’s to the right of the “Merge Cell” toggle. Once you select it, click on the middle option to center your title.
+
+After Completion:
+<img width="1258" height="829" alt="image" src="https://github.com/user-attachments/assets/69ecd981-5c48-48a3-b600-b9c008da1d5a" />
+
 
 ## Part 2: Categorizing Data
 1. In cell “2A” type the words “Semester and year”
@@ -67,5 +71,3 @@ After completing all the listed steps above, you should have a grant tracking sp
 * Notes for grant
 * Amount of money you were awarded
 * Grant priority (1-5)
-> [!Note]
-> Reference "images" folder to verify your grant tracking documentation is formatted correctly.
