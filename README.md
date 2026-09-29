@@ -15,6 +15,6 @@ Through these instructions students will learn how to:
 
 ## Available Content
 *  [Overview of the process](/docs/1_overview.md) 
-*  [Step-by-step procedure of how to format a Google Sheet](/2_procedure.md)
+*  [Step-by-step procedure of how to format a Google Sheet](/docs/2_procedure.md)
 * [Troubleshooting with images](/3_troubleshooting.md)
 * [Sources](/4_sources.md)
