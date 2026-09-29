@@ -46,7 +46,7 @@ After Completion | <img width="600" height="400" alt="image" src="https://github
 
 | Step 2 | Image |
 | --- | --- |
-After Completions | <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" /> |
+After Completion | <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" /> |
 
 ## Part 3: Adding Key Information 
 1. In cell “3A” type the current semester and year you are writing your grant. (Ex: “fall 2026”)
@@ -63,7 +63,7 @@ After Completions | <img width="600" height="400" alt="image" src="https://githu
 10. In cell "3J" type in the amount of money you have received from the funder. If request is still pending, leave this blank until further notified by funder.
 11. In cell “3K” type a number 1-5 to suggest the importance of the grant. Determine if it is the grant you will focus on first (“1”) or if you will prioritize other grants first (“5”).
 
-| After Completion | Images |
+| Step 3: After Completion | Images |
 | --- | --- |
 Adding Proposal Draft |<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/65d18a30-8bea-42c4-8147-a6789fdb17fb" /> |
 Drop-Down Menu | <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b26a8280-dedb-45a7-b67a-e67981b34df1" /> |
