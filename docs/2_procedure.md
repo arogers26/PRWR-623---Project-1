@@ -3,7 +3,7 @@
 ## Prerequisites
 Students should already have a clear understanding of how to: 
 * Open Google Sheets
-* Access and use OneDrive through personal g-mail account
+* Access and use OneDrive through personal Gmail account
 * Write a grant proposal draft in OneDrive
 * Search and identify grant opportunities
 * Locate RFPs on a foundation’s website
