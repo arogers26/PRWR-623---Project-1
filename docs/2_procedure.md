@@ -63,9 +63,9 @@ After Completion:
 
 | After Completion | Images |
 | --- | --- |
-Adding Proposal Draft |<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/65d18a30-8bea-42c4-8147-a6789fdb17fb" /> |
-Drop-Down Menu | <img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/b26a8280-dedb-45a7-b67a-e67981b34df1" /> |
-Final Product | <img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/6ebc738a-5039-4d92-8569-dcedd78a4c1e" /> |
+Adding Proposal Draft |<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/65d18a30-8bea-42c4-8147-a6789fdb17fb" /> |
+Drop-Down Menu | <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b26a8280-dedb-45a7-b67a-e67981b34df1" /> |
+Final Product | <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6ebc738a-5039-4d92-8569-dcedd78a4c1e" /> |
 
 ## Verifying Completion
 After completing all the listed steps above, you should have a grant tracking spreadsheet that includes all these components:
