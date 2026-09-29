@@ -61,6 +61,10 @@ After Completion:
 10. In cell "3J" type in the amount of money you have received from the funder. If request is still pending, leave this blank until further notified by funder.
 11. In cell “3K” type a number 1-5 to suggest the importance of the grant. Determine if it is the grant you will focus on first (“1”) or if you will prioritize other grants first (“5”).
 
+Final Product:
+<img width="1286" height="896" alt="image" src="https://github.com/user-attachments/assets/65d18a30-8bea-42c4-8147-a6789fdb17fb" />
+
+
 ## Verifying Completion
 After completing all the listed steps above, you should have a grant tracking spreadsheet that includes all these components:
 * Title with link to organization
