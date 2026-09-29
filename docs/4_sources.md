@@ -7,7 +7,7 @@ This is a document from Towson University's ENGL 401 Grant & Advocacy Writing co
 
 
 ## Online Source
-Grants.gov, https://grants.gov/learn-grants/grant-terminology. This is a cite that helps people understand grant writing terminology. 
+Grants.gov, https://grants.gov/learn-grants/grant-terminology. This cite contains grant writing terminology that may be beneficial to reference. 
 
 ## Anecdotal Evidence
 The majority of this documentaion is based off of the author's personal insight with grant writing. 
