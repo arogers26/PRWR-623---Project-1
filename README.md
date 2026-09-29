@@ -17,4 +17,4 @@ Through these instructions students will learn how to:
 *  [Overview of the process](/docs/1_overview.md) 
 *  [Step-by-step procedure of how to format a Google Sheet](/docs/2_procedure.md)
 * [Troubleshooting with images](/docs/3_troubleshooting.md)
-* [Sources](/4_sources.md)
+* [Sources](/docs/4_sources.md)
