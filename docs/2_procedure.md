@@ -28,7 +28,7 @@ Students should already have a clear understanding of how to:
 
 **After Completion:**
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/69ecd981-5c48-48a3-b600-b9c008da1d5a" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/69ecd981-5c48-48a3-b600-b9c008da1d5a" />
 
 
 ## Part 2: Categorizing Data
@@ -46,7 +46,7 @@ Students should already have a clear understanding of how to:
 
 **After Completion:**
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" />
 
 ## Part 3: Adding Key Information 
 1. In cell “3A” type the current semester and year you are writing your grant. (Ex: “fall 2026”)
