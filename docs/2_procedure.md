@@ -18,12 +18,8 @@ Students should already have a clear understanding of how to:
 > [!Note] 
 > This feature looks like a box with an arrow on both the left and right side that points towards the center.
 4. After merging these cells, open a new tab on your computer browser and search for the website of your partnering nonprofit. 
-5. Once you click on the website, move your cursor to the link at the top of the screen that starts with “https://”. Click to the right of the link so that the link is highlighted in blue then copy it. 
-> [!Note] 
-> Press keys “ctrl” and “C” on your keyboard to copy the link. 
-6. Switch back to your google sheet tab and double click in the merged cells “1A” through “1K” space and paste the link into the Google sheet. 
-> [!Note] 
-> Press “ctrl” and “V” on your keyboard to paste link. 
+5. Once you click on the website, move your cursor to the link at the top of the screen that starts with “https://”. Click to the right of the link so that the link is highlighted in blue then copy it. Press keys “ctrl” and “C” on your keyboard to copy the link. 
+6. Switch back to your google sheet tab and double click in the merged cells “1A” through “1K” space and paste the link into the Google sheet. Press “ctrl” and “V” on your keyboard to paste link. 
 7. Select any cell outside of “1A” through “1K”. Your link will then turn blue. When your link turns blue, hover your cursor over the link until you see three toggles appear. 
 > [!Note] 
 > Click on the middle one that looks like a pencil and says, “Edit Link”.
@@ -45,12 +41,8 @@ Students should already have a clear understanding of how to:
 
 ## Part 3: Adding Key Information 
 1. In cell “3A” type the current semester and year you are writing your grant. (Ex: “fall 2026”)
-2. Before typing anything into cell “3B”, open a new tab and search up the website of the foundation you are applying to and locate their RFP. Then move your cursor to the link at the top of the screen that starts with “https://”. Click to the right of the link so that the link is highlighted in blue. Press keys “ctrl” and “C” on your keyboard to copy the link. Return to your Google Sheet and click on “3B”. Once it is selected press the keys “ctrl” and “V” on your keyboard to paste the link. Click any cell outside of “3B” so the link will turn blue. When your link turns blue, hover your cursor over the link until you see three toggles appear. 
-> [!Note] 
-> Click on the middle one that looks like a pencil and says, “Edit Link”. Hit the backspace to erase the blue highlighted section and then type in the title of the foundation. (Ex: “The John J. Leidy Foundation”)
-3. Before entering anything into cell "3C", open a new tab with your OneDrive documents. Locate the document you wrote your grant proposal in. Click on it and then click to the right of the link that says, “https://” so that the link is highlighted in blue. 
-> [!Note]
-> Press "ctrl" and "C" on keyboard to copy. Then return to Google Sheet and double click on cell "3C". After press "ctrl" and "V" to paste. Click any other cell beside "3C" and then click "3C" again. An option will pop up saying "Replace URL" and you will click the oval that says, "Chip" on the right.
+2. Before typing anything into cell “3B”, open a new tab and search up the website of the foundation you are applying to and locate their RFP. Then move your cursor to the link at the top of the screen that starts with “https://”. Click to the right of the link so that the link is highlighted in blue. Press keys “ctrl” and “C” on your keyboard to copy the link. Return to your Google Sheet and click on “3B”. Once it is selected press the keys “ctrl” and “V” on your keyboard to paste the link. Click any cell outside of “3B” so the link will turn blue. When your link turns blue, hover your cursor over the link until you see three toggles appear. Click on the middle one that looks like a pencil and says, “Edit Link”. Hit the backspace to erase the blue highlighted section and then type in the title of the foundation. (Ex: “The John J. Leidy Foundation”)
+3. Before entering anything into cell "3C", open a new tab with your OneDrive documents. Locate the document you wrote your grant proposal in. Click on it and then click to the right of the link that says, “https://” so that the link is highlighted in blue. Press "ctrl" and "C" on keyboard to copy. Then return to Google Sheet and double click on cell "3C". After press "ctrl" and "V" to paste. Click any other cell beside "3C" and then click "3C" again. An option will pop up saying "Replace URL" and you will click the oval that says, "Chip" on the right.
 4. In cell “3D” type your name, whether you are a graduate/undergraduate student, and your personal email.
 5. In cell “3E” type which program you are requesting funding for to benefit your nonprofit. Ex: “General Operating”.
 6. In cell “3F” type in the amount of money you are requesting from this specific funder. (Ex: $10,000)
@@ -59,9 +51,7 @@ Students should already have a clear understanding of how to:
 > [!Note]
 > Click the box that says, "Add another item" until you have a total of six (one for each grant status).
 9. In cell "3I" put any notes that are important and relevant for specific grant. (Ex: what the funder prioritizes, important forms you need for grant, other essential dates like webinars for information, and LOI deadlines)
-10. In cell "3J" type in the amount of money you have received from the funder.
-> [!Note]
-> If request is still pending, leave this blank until further notified by funder.
+10. In cell "3J" type in the amount of money you have received from the funder. If request is still pending, leave this blank until further notified by funder.
 11. In cell “3K” type a number 1-5 to suggest the importance of the grant. Determine if it is the grant you will focus on first (“1”) or if you will prioritize other grants first (“5”).
 
 ## Verifying Completion
@@ -77,3 +67,5 @@ After completing all the listed steps above, you should have a grant tracking sp
 * Notes for grant
 * Amount of money you were awarded
 * Grant priority (1-5)
+> [!Note]
+> Refer to "images" folder to see how your grant tracking documentation should look.
