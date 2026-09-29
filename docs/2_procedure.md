@@ -43,6 +43,9 @@ After Completion:
 10. In cell “2J” type the words “Amount Awarded”
 11. In cell “2K” type “Priority 1-5”
 
+After Completion:
+<img width="1289" height="889" alt="image" src="https://github.com/user-attachments/assets/bc910ee5-ad0d-4a2f-bb09-02da6db834c9" />
+
 ## Part 3: Adding Key Information 
 1. In cell “3A” type the current semester and year you are writing your grant. (Ex: “fall 2026”)
 2. Before typing anything into cell “3B”, open a new tab and search up the website of the foundation you are applying to and locate their RFP. Then move your cursor to the link at the top of the screen that starts with “https://”. Click to the right of the link so that the link is highlighted in blue. Press keys “ctrl” and “C” on your keyboard to copy the link. Return to your Google Sheet and click on “3B”. Once it is selected press the keys “ctrl” and “V” on your keyboard to paste the link. Click any cell outside of “3B” so the link will turn blue. When your link turns blue, hover your cursor over the link until you see three toggles appear. Click on the middle one that looks like a pencil and says, “Edit Link”. Hit the backspace to erase the blue highlighted section and then type in the title of the foundation. (Ex: “The John J. Leidy Foundation”)
